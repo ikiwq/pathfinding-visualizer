@@ -21,3 +21,8 @@ The pathfinding visualizer can currently use these algorithms:
 ## Requirements
 - Python 3.10 and above. Download python from the [official website](https://www.python.org/).
 - Pygame. Install Pygame by running 'pip install pygame' in your terminal.
+
+# Usage
+Run in your terminal
+
+    python main.py
