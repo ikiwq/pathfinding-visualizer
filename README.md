@@ -1,12 +1,12 @@
 # PathfindingVisualizer
 A simple tool built in python for visualizing pathfinding algorithms
 
-### Choose between A* star algorithm and dijkstra's algorithm.
+#### Choose between A* star algorithm and dijkstra's algorithm.
 <img src="https://github.com/ikiwq/pathfinding-visualizer/assets/110495658/9ff09939-2985-405a-91c7-44664d52ff75" width="600">
 
 Select the algorithm by using the up and down arrow key and then press enter.
 
-### Place the nodes and watch the algorithm find a solution.
+#### Place the nodes and watch the algorithm find a solution.
 <img src="https://github.com/ikiwq/pathfinding-visualizer/assets/110495658/f4001e96-a1cc-4ac4-af4e-6485d0cb4991" width="600">
 
 You can place a start node, an end node and a barrier node with the left click.
@@ -22,7 +22,7 @@ The pathfinding visualizer can currently use these algorithms:
 - Python 3.10 and above. Download python from the [official website](https://www.python.org/).
 - Pygame. Install Pygame by running 'pip install pygame' in your terminal.
 
-# Usage
+## Usage
 Run in your terminal
 
     python main.py
